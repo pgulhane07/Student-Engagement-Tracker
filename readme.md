@@ -12,13 +12,13 @@ The system ensures that non-academic accomplishments such as participation in ar
 
 The Application was in use at **Pune Institute of computer technology,Pune**  between 2021 to 2024 for College students.
 
-The Demo videos for the working of this application are uploaded to Youtube, follow these links to check them.
+The Demo videos for the working of this application are uploaded to Drive, follow these links to check them.
 
-Student dashboard : https://youtu.be/ev9uaFPWh_s
+Student dashboard : https://drive.google.com/file/d/1HMmkOzYONfqMHBM0fPLyJtOt-9oHy7OU/view?usp=sharing
 
-Teacher dashboard : https://youtu.be/AGuelbCo31k
+Teacher dashboard : https://drive.google.com/file/d/18XwOJbtXCrkgFWy3i9zCP1Mzuw0FWMoL/view?usp=sharing
 
-Admin Dashboard : https://youtu.be/Ahfi-iObx8A
+Admin Dashboard : https://drive.google.com/file/d/1bp3LfE1sBbpGcVFn1F_g4ZTdSzOwqgyn/view?usp=sharing
 ---
 
 ##  Key Features
