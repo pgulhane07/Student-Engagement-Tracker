@@ -29,11 +29,20 @@ The system ensures that non-academic accomplishments such as participation in ar
 - Edit or delete existing entries.
 - View a summarized profile displaying their accomplishments across categories.
 
-> 📸 _Placeholder: Add a screenshot of the student dashboard here._
+Login Screen
 ![Student login](dashboard_images/login.png)
 
-![Student Dashboard](dashboard_images/student dashboard.png)
+Students Dashboard to select from multiple options
+![Student Dashboard](dashboard_images/student_dashboard.png)
+
+Adding/Editing Details & uploading proof image Screen
+![Student Profile](dashboard_images/record_add_edit.png)
+
+Students Profile
 ![Student Profile](dashboard_images/profile.png)
+
+
+
 
 ---
 
@@ -48,11 +57,17 @@ The system ensures that non-academic accomplishments such as participation in ar
 - Generate reports from filtered data and print or export the visible records.
 - Visualize student performance and activity summaries using graphical views.
 
-> 📸 _Placeholder: Add a screenshot of the teacher dashboard with report generation and graph features._
-![Teacher Dashboard](dashboard_images/teacher dash.png)
+Teachers DashBoards view
+![Teacher Dashboard](dashboard_images/teacher_dash.png)
+
+Tablular view of students achievements
 ![Teacher Dashboard](dashboard_images/teacherview.png)
+
+Graphical summary of class student activities
 ![Teacher Dashboard](dashboard_images/graphs.png)
-![Teacher Dashboard](dashboard_images/report print preview.png)
+
+Preview to print the desired data after filtering
+![Teacher Dashboard](dashboard_images/print_preview.png)
 
 ---
 
@@ -65,13 +80,15 @@ The system ensures that non-academic accomplishments such as participation in ar
   - Oversee the entire ecosystem of data entry and management.
 - Manage teacher workloads, data access rights, and institutional reports.
 
-> 📸 _Placeholder: Add a screenshot of the admin dashboard with user and data management features._
+Admin Actions
+![Student Profile](dashboard_images/adminactions.png)
+
+
 
 ---
 
 ## Tech Stack
 
-# Example
 Frontend: HTML+CSS+ Javascript
 Backend: PHP
 Database: MySQL  
