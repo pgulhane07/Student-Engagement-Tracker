@@ -1,0 +1,24 @@
+body{
+	background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+}
+
+.last{
+	margin-bottom: 60px;
+}
+
+.mySlides{
+	/*background-color: #f1f1f1;*/
+/*	width: 100%;
+	height: 500px;
+	margin-bottom: 10px;
+	display: flex;*/
+}
+
+.head{
+	text-align: center;
+}
+
+.top-space{
+	padding-top: 50px;
+}
+

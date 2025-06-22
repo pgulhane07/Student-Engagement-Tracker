@@ -1,0 +1,28 @@
+.tabs {
+	padding-left: 5%;
+}
+table {
+	width:80%;
+	border-collapse: collapse;
+}
+table, th, td {
+	border: 1px solid black;
+}
+/*#logo {
+	background-color: white;
+}
+#head {
+
+	background-color: rgb(70, 146, 227);
+}*/
+th {
+	background-color: rgb(186, 86, 185);
+}
+.logo {
+	display: inline-block; 
+
+
+}
+body {
+  -webkit-print-color-adjust: exact !important;
+}

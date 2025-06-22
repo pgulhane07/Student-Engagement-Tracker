@@ -1,0 +1,222 @@
+body{
+    background-color: #f0f0f0;
+}
+.new-section{
+    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+}
+.emp-profile{
+    padding: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 0.5rem;
+    background: #fff;
+}
+.profile-img{
+    text-align: center;
+}
+.profile-img img{
+    width: 70%;
+    height: 100%;
+}
+.profile-img .file {
+    position: relative;
+    overflow: hidden;
+    margin-top: -20%;
+    width: 70%;
+    border: none;
+    border-radius: 0;
+    font-size: 15px;
+    background: #212529b8;
+}
+.profile-img .file input {
+    position: absolute;
+    opacity: 0;
+    right: 0;
+    top: 0;
+}
+.ele{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    text-align: left;
+}
+.ele1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.05em;
+    text-align: left;
+    color: #0062CC;
+}
+.ele2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.05em;
+    text-align: left;
+}
+.profile-head h5{
+    color: #333;
+}
+.profile-head h6{
+    color: #0062cc;
+}
+.profile-edit-btn{
+    border: none;
+    border-radius: 1.5rem;
+    width: 70%;
+    padding: 2%;
+    font-weight: 600;
+    color: #6c757d;
+    cursor: pointer;
+}
+.proile-rating{
+    font-size: 12px;
+    color: #818182;
+    margin-top: 5%;
+}
+.proile-rating span{
+    color: #495057;
+    font-size: 15px;
+    font-weight: 600;
+}
+.profile-head .nav-tabs{
+    margin-bottom:5%;
+}
+.profile-head .nav-tabs .nav-link{
+    font-weight:600;
+    border: none;
+}
+.profile-head .nav-tabs .nav-link.active{
+    border: none;
+    border-bottom:2px solid #0062cc;
+}
+.profile-work{
+    padding: 14%;
+    margin-top: -15%;
+}
+.profile-work p{
+    font-size: 12px;
+    color: #818182;
+    font-weight: 600;
+    margin-top: 10%;
+}
+.profile-work a{
+    text-decoration: none;
+    color: #495057;
+    font-weight: 600;
+    font-size: 14px;
+}
+.profile-work ul{
+    list-style: none;
+}
+.profile-tab label{
+    font-weight: 600;
+}
+.profile-tab p{
+    font-weight: 600;
+    color: #0062cc;
+}
+#student_authority
+{
+    margin-bottom: 20px;
+}
+.top-space{
+    padding-top: 50px;
+}
+.input-field{
+    border-radius: 10px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+    width: 220px;
+    padding: 3px;
+    border: 0;
+    color: #0062CC;
+    transition: border 0.25s;
+}
+.input-field:hover{
+    border: 1px solid #0062CC;
+}
+.gap{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 20px;
+}
+.form-button{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: 0;
+    background-color: #0062CC;
+    color: white;
+    display: inline;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s,transform 0.25s;
+}
+.form-button:hover{
+    border-color: #0062CC;
+  color: white;
+  box-shadow: 0 0.5em 0.5em -0.4em #0062CC;
+  transform: translateY(-0.25em);
+  cursor: pointer;
+}
+.icons{
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+}
+.block {
+    display: block;
+}
+input {
+    width: 50%;
+    display: inline-block;
+}
+span {
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.form-button1{
+    font-size: 0.9em;
+    padding-bottom:25px;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s,transform 0.25s;
+}
+.form-button1:hover {
+  border-color: #0062CC;
+  color: #0062CC;
+  box-shadow: 0 0.5em 0.5em -0.4em #0062CC;
+  transform: translateY(-0.10em);
+  cursor: pointer;
+}
+.change{
+    transition: background 0.5s, color 0.5s;
+}
+.change:hover{
+    background-color: white;
+    color: black;
+}
+.ele3{
+    width: 100%;
+    height: 30px;
+}
+.input-field1{
+    font-size: 0.9em;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    width: 100%;
+    padding: 3px;
+    border: 0;
+    color: #0062CC;
+    transition: border 0.25s;
+}
+.input-field1:hover{
+    border: 1px solid #0062CC;
+}
+.card{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0062CC;
+    border-radius: 10px;
+}
